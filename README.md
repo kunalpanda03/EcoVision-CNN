@@ -1,4 +1,4 @@
-### 100 Days of Machine Learning: Day 23
+
 
 # Satellite Image Classifier for Deforestation and Pollution
 
@@ -27,6 +27,3 @@ The dataset used for this project is sourced from the [Amazon Deforestation from
 
 3. After training, the model will be saved as **'model.h5'**. You can use the **predict_deforestation_pollution()** function in the **satellite_image_classifier.py** script to make predictions on new images.
 
-### License
-
-This project is licensed under the **MIT License**. See the **LICENSE** file for details.
